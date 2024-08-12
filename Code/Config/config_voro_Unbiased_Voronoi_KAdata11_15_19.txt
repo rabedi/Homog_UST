@@ -1,0 +1,45 @@
+#rootFolder
+UnbiasedMicros_KAdata11_15_19/Unbiased_VoronoiIVOL/V1_32/
+#number of RVE
+1
+#FolderName									MicroStructure_type							ContrastRatio						SVE_NumPart_x							SVE_NumPart_y							incrementAngle						tangentialFactor_betta						intfStrength
+Micro1										1											100									32										32										5									0.0											1
+
+
+UnbiasedMicros_KAdata11_15_19/Unbiased_VoronoiIVOL/V1_2/
+#number of RVE
+4
+#FolderName									MicroStructure_type							ContrastRatio						SVE_NumPart_x							SVE_NumPart_y							incrementAngle						tangentialFactor_betta						intfStrength
+Micro1										1											100									2										2										5									0.0											1
+Micro2										1											100									2										2										5									0.0											1
+Micro3										1											100									2										2										5									0.0											1
+Micro4										1											100									2										2										5									0.0											1
+
+
+UnbiasedMicros_KAdata11_15_19/Unbiased_VoronoiIVOL/V1_4/
+#number of RVE
+4
+#FolderName									MicroStructure_type							ContrastRatio						SVE_NumPart_x							SVE_NumPart_y							incrementAngle						tangentialFactor_betta						intfStrength
+Micro1										1											100									4										4										5									0.0											1
+Micro2										1											100									4										4										5									0.0											1
+Micro3										1											100									4										4										5									0.0											1
+Micro4										1											100									4										4										5									0.0											1
+
+UnbiasedMicros_KAdata11_15_19/Unbiased_VoronoiIVOL/V1_8/
+#number of RVE
+1
+#FolderName									MicroStructure_type							ContrastRatio						SVE_NumPart_x							SVE_NumPart_y							incrementAngle						tangentialFactor_betta						intfStrength
+Micro1										1											100									8										8										5									0.0											1
+
+UnbiasedMicros_KAdata11_15_19/Unbiased_VoronoiIVOL/V1_16/
+#number of RVE
+1
+#FolderName									MicroStructure_type							ContrastRatio						SVE_NumPart_x							SVE_NumPart_y							incrementAngle						tangentialFactor_betta						intfStrength
+Micro1										1											100									16										16										5									0.0											1
+
+#rootFolder
+UnbiasedMicros_KAdata11_15_19/Unbiased_VoronoiIVOL/V1_32/
+#number of RVE
+1
+#FolderName									MicroStructure_type							ContrastRatio						SVE_NumPart_x							SVE_NumPart_y							incrementAngle						tangentialFactor_betta						intfStrength
+Micro1										1											100									32										32										5									0.0											1

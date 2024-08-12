@@ -1,0 +1,28 @@
+#fld id(y-axis)
+1
+#fld_normalizationId
+1
+#num of SVE sizes(x-axis)
+5
+#sizes
+3.125 	6.25	12.5	25	50
+#dataNumber of each size
+1	1	1	4	4
+#numBC(as different categories in same plot)
+1
+#BC
+D
+#num data
+11
+#micStruc		CR			SVEsz		BC	
+1				100			3.125		D
+1				100			6.25		D
+1				100			12.5		D
+1				100			25			D
+2				100			25			D
+3				100			25			D
+4				100			25			D
+1				100			50			D
+2				100			50			D
+3				100			50			D
+4				100			50			D

@@ -1,0 +1,6 @@
+#rootFolder
+UnbiasedMicros_KAdata11_15_19/Unbiased_SquareIVOL/Micro1//
+#number of RVE
+1
+#FolderName									MicroStructure_type	ContrastRatio	SVE_NumPart_x	SVE_NumPart_y	incrementAngle	tangentialFactor_betta	intfStrength
+S1_2										1			100		1		1		5		1.0			1			

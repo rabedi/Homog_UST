@@ -1,0 +1,9 @@
+#rootFolder
+VoronoiCircle_sz4_2019_07//
+#number of RVE
+4
+#FolderName									MicroStructure_type							ContrastRatio						SVE_NumPart_x							SVE_NumPart_y							incrementAngle						tangentialFactor_betta						intfStrength
+Micro1										1											100									4										4										5									0.0											1
+Micro2										1											100									4										4										5									0.0											1
+Micro3										1											100									4										4										5									0.0											1
+Micro4										1											100									4										4										5									0.0											1

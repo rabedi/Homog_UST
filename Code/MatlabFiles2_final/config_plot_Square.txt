@@ -1,0 +1,38 @@
+#nCases	nCol
+11	14
+#number of field to plot -1:means all
+9
+#fields to plot 
+Nfstrength_mean	 Sfstrength_mean	c00	 c10	 c11	 c20	 c21	 c22    bulkModulus
+#FileRoot											BC_type					MicroStruct_type			RVE_lx			RVE_ly			SVE_lx		SVE_ly			overlapPersent 			tetaIncr            CR
+../OUTPUT/Square/M1CR100S2/						D						1							100				100				50			50				0						5					100
+../OUTPUT/Square/M2CR100S2/						D						2							100				100				50			50				0						5					100
+../OUTPUT/Square/M3CR100S2/						D						3							100				100				50			50				0						5					100
+../OUTPUT/Square/M4CR100S2/						D						4							100				100				50			50				0						5					100
+../OUTPUT/Square/M1CR100S4/						D						1							100				100				25			25				0						5					100
+../OUTPUT/Square/M2CR100S4/						D						2							100				100				25			25				0						5					100
+../OUTPUT/Square/M3CR100S4/						D						3							100				100				25			25				0						5					100
+../OUTPUT/Square/M4CR100S4/						D						4							100				100				25			25				0						5					100
+../OUTPUT/Square/M1CR100S8/						D						1							100				100				12.5		12.5			0						5					100
+../OUTPUT/Square/M1CR100S16/						D						1							100				100				6.25		6.25			0						5					100
+../OUTPUT/Square/M1CR100S32/						D						1							100				100				3.125		3.125			0						5					100
+#Plots(val-PDFsve) 
+0
+#list	{fields}		{BCs}		{SVE_Sizes}
+
+
+
+#Plots(sve-val)
+0
+#list	{fields}		{BCs}		{SVE_Sizes}
+
+
+
+#Plots(teta-val)
+0
+#list	{fields}		{BCs}		{SVE_Sizes}
+
+#Plots(case-percentFaiulPhase)																					
+
+
+

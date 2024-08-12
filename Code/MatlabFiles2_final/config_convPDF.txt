@@ -1,0 +1,26 @@
+#numFlds(just one)
+1
+#fld id(y-axis)
+9
+#fld_normalizationId
+1
+#num of SVE sizes(x-axis) (just one)
+1
+#sizes (just one) 3.125 	6.25	12.5	25
+12.5
+#RVE size
+100
+#ratioSmallPart_x(for conv study)
+0.5
+#partitioning type (1 or 2)
+2
+#dataNumber of each size
+1
+#numBC(as different categories in same plot)
+1
+#BC
+D
+#num data
+1
+#micStruc		CR			SVEsz		BC	
+1				100			12.5		D

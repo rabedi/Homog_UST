@@ -1,0 +1,16 @@
+#rootFolder
+Voronoi//
+#number of RVE
+2
+#FolderName									MicroStructure_type							ContrastRatio						SVE_NumPart_x							SVE_NumPart_y							incrementAngle						tangentialFactor_betta						intfStrength
+M1CR100V16									1											100									16										16										5									1.0											1
+M2CR100V4									1											100									4										4										5									1.0											1
+M3CR100V2									1											100									8										8										5									1.0											1
+M4CR100V2									1											100									32										32										5									1.0											1
+M1CR100V2									1											100									2										2										5									1.0											1
+M4CR100V4									1											100									32										32										5									1.0											1
+M3CR100V4									1											100									16										16										5									1.0											1
+M1CR100V4									1											100									4										4										5									1.0											1
+M1CR100V32									1											100									32										32										5									1.0											1
+M2CR100V2									1											100									2										2										5									1.0											1
+M1CR100V8									1											100									8										8										5									1.0											1
